@@ -1,0 +1,61 @@
+body{
+    background-color: #202022;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+/* stlye for the footer */
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+/* style for the header 1 */
+h1{
+    text-align: center;
+    color: white;
+}
+/* style for the header 2 */
+h2{
+    text-align: center;
+    color: white;
+}
+/* style for the header 3 */
+#image{
+    text-align: center;
+    height: 500px;
+    width: 500px;
+}
+
+/* style for the button */
+button{
+    background-color: #202022;
+    color: white;
+    border: 2px solid white;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+/* style for the result */
+.result {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+/* style for the input tag in html */
+#userInput{
+    text-align: center;
+    height: 25px;
+    width: 200px;
+    font-size: 16px;
+}
